@@ -15,7 +15,7 @@ namespace ADONetHome310823
             {
                 connection.Open();
 
-                Console.WriteLine(conectionString);
+                Console.WriteLine(Hello world!);
                 connection.Close();
             }
 
